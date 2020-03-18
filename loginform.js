@@ -14,7 +14,6 @@ $(function() {
         isphone = false,
         isnum = false;
     var count=60;
-
     $name.focus(()=>{
         $names.html('最长14个英文或7个汉字')
     });
