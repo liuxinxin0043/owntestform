@@ -1,0 +1,25 @@
+{
+  "name": "owntestform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loginform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuxinxin0043/owntestform.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuxinxin0043/owntestform/issues"
+  },
+  "homepage": "https://github.com/liuxinxin0043/owntestform#readme",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
